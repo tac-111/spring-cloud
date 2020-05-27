@@ -12,6 +12,9 @@ public class TestZj extends BaseTest {
 
 
         System.out.println(String.valueOf(1));
+        System.out.println(String.valueOf(1));
+        System.out.println(String.valueOf(1));
+        System.out.println(String.valueOf(1));
 
         userDao.selectUser(1);
     }
